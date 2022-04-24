@@ -12,7 +12,10 @@
 - 首先克隆项目下来吧
 
 ```bash
-git clong https://github.com/
+git clong https://github.com/Geda-999/UniApp_initial.git
 
-cd 
+cd UniApp_initial
+
 ```
+
+> 用 HBuilderX 打开
