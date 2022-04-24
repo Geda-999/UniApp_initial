@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "u-tabbar": "/plugins/uView/components/u-tabbar/u-tabbar"
+  },
+  "component": true
+}

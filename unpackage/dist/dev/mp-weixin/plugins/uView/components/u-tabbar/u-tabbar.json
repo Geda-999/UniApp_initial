@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-icon": "/plugins/uView/components/u-icon/u-icon",
+    "u-badge": "/plugins/uView/components/u-badge/u-badge"
+  },
+  "component": true
+}

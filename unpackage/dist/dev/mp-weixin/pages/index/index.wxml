@@ -1,0 +1,1 @@
+<view><view class="text">hello 面前的你是不是在想我呀！</view><tab-bar vue-id="8dd740cc-1" bind:__l="__l"></tab-bar></view>
