@@ -12,7 +12,7 @@
 - 首先克隆项目下来吧
 
 ```bash
-git clong https://github.com/Geda-999/UniApp_initial.git
+git clone https://github.com/Geda-999/UniApp_initial.git
 
 cd UniApp_initial
 
